@@ -1,0 +1,2 @@
+#!/bin/bash
+pert -1ne 'print if $. %2==1'
